@@ -29,23 +29,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://felipeariasrealestate.com/MarketAnalysis
+  first_CTA_URL: https://www.ariasrealtygroupsd.com/sell.php
   second_CTA_text: Home Search
-  second_CTA_URL: http://felipeariasrealestate.com/lss
+  second_CTA_URL: https://www.ariasrealtygroupsd.com/index.php?rtype=map
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your San Diego Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://felipeariasrealestate.com/MarketAnalysis
+    CTA_url: https://www.ariasrealtygroupsd.com/sell.php
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a San Diego Home?"
     CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://felipeariasrealestate.com/lss
+    CTA_url2: https://www.ariasrealtygroupsd.com/index.php?rtype=map
 
 lender:
   show_section: false
@@ -66,7 +66,7 @@ socials:
   linkedin_url: https://www.linkedin.com/pub/felipe-arias/a4/268/898
   youtube_url: https://www.youtube.com/channel/UCJPWglCsA9h0qTXyQRf7oMA
   twitter_url: https://twitter.com/sasurfer
-  instagram_url:
+  instagram_url: https://www.instagram.com/ariasrealty/
   pinterest_url:
   zillow_url:
   trulia_url:
