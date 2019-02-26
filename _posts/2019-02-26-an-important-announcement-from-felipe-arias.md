@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Important Announcement From Felipe Arias
-date:
+date: 2019-02-26 19:32:42
 tags:
   - Real Estate
 excerpt: >-
