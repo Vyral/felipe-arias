@@ -17,17 +17,17 @@ youtube_code: 9H5Tp8BTgws
 
 {% include youtube.html %}
 
-As we move into spring, it’s time for an update on how our San Diego County market has developed so far this year. 
+As we move into spring, it’s time for an update on how our San Diego County market has developed so far this year.&nbsp;
 
-For one thing, we’re beginning to notice signs of a shift. There was a 9.5% increase in the number of properties hitting the market between January of 2018 and January of this year. Over that same period, the number of sales dropped by 26.2%. 
+For one thing, we’re beginning to notice signs of a shift. There was a 9.5% increase in the number of properties hitting the market between January of 2018 and January of this year. Over that same period, the number of sales dropped by 26.2%.&nbsp;
 
 {% include pullquote.html %}
 
 **What does all of this mean?**
 
-First, it means that buyers now have more options than in the recent past. With more homes available in general, and homes spending more time on the market, buyers are in a very favorable position. 
+First, it means that buyers now have more options than in the recent past. With more homes available in general and homes spending more time on the market, buyers are in a very favorable position.&nbsp;
 
-However, at 2.1 months’ worth of supply, we’re still technically in a seller’s market. This means sellers, too, can leverage our market conditions to their advantage. 
+However, at 2.1 months’ worth of supply, we’re still technically in a seller’s market. This means sellers, too, can leverage our market conditions to their advantage.&nbsp;
 
 The bottom line is that it’s a great time to pursue your real estate goals, whatever they may be, and **our team would be happy to help.**
 
