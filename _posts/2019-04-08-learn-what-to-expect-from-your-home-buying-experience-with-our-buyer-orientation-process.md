@@ -20,7 +20,7 @@ youtube_alternate_image: /uploads/felipe-arias---march-2019---2---youtube-1.jpg
 youtube_code: GODMdKQTRWE
 ---
 
-{% include youtube.html %}
+&nbsp;{% include youtube.html %}
 
 Buying a home isn’t something to take lightly. Before diving into such a big decision, we believe you should go through a buyer orientation with your Realtor. **This orientation will walk you through each step of the process so that you understand what to expect at every point of the deal.&nbsp;**
 
