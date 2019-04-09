@@ -28,7 +28,7 @@ This orientation should include information on how to search for homes, the time
 
 {% include pullquote.html %}
 
-We at Arias Really are happy to walk our clients through this process. We want you to feel comfortable and confident about the real estate process before you get started on a home search of your own. We’d also encourage you to undergo a buyer analysis—something we offer all our buyer clients **to ensure that their real estate experience is specifically tailored to their wants, needs, and goals.**
+We at Arias Realty are happy to walk our clients through this process. We want you to feel comfortable and confident about the real estate process before you get started on a home search of your own. We’d also encourage you to undergo a buyer analysis—something we offer all our buyer clients **to ensure that their real estate experience is specifically tailored to their wants, needs, and goals.**
 
 We can help you decide between a condo, a single-family home, or another kind of property; avoid wire fraud and other problems that might otherwise arise during your purchase; and, overall, achieve a smooth and successful deal.
 
