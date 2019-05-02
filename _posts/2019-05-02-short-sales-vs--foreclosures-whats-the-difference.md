@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Short Sales vs. Foreclosures: What’s the Difference?'
-date: 2019-05-02 16:56:42
+date: 2019-05-02 16:56:00
 tags:
 excerpt: >-
   If you can’t pay your mortgage, should you foreclose or have a short sale?
   Here’s what to do.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Felipe+Arias/Arias+Real+Estate+_+Short+Sales+vs.+Foreclosures-+Whats+the+Difference_.mp4
 pullquote: 'By hiring a Realtor and making a short sale, you’ll be much better off'
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: gtbUWnsr8q8
 
 {% include youtube.html %}
 
-If you’re facing foreclosure or a short sale, it’s because you can no longer afford to pay your mortgage.&nbsp;
+If you’re facing foreclosure or a short sale, it’s because you can no longer afford to pay your mortgage. 
 
 When this happens, you have a few options. You can have a loan modification and negotiate a more comfortable payment plan with your lender. If not, you’re forced to sell.
 
@@ -31,4 +32,4 @@ The offers you receive will likely be much less than the amount left on your mor
 
 By hiring a Realtor and making a short sale, you’ll be much better off—and you’ll probably be able to buy a home again within two years.
 
-If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
+If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>
