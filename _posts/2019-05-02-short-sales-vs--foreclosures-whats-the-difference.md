@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gtbUWnsr8q8
+youtube_code: n65wcTQLFDY
 ---
 
 {% include youtube.html %}
 
-If you’re facing foreclosure or a short sale, it’s because you can no longer afford to pay your mortgage. 
+If you’re facing foreclosure or a short sale, it’s because you can no longer afford to pay your mortgage.&nbsp;
 
 When this happens, you have a few options. You can have a loan modification and negotiate a more comfortable payment plan with your lender. If not, you’re forced to sell.
 
@@ -32,4 +32,4 @@ The offers you receive will likely be much less than the amount left on your mor
 
 By hiring a Realtor and making a short sale, you’ll be much better off—and you’ll probably be able to buy a home again within two years.
 
-If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>
+If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
