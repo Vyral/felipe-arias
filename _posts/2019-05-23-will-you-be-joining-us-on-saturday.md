@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will You Be Joining Us on Saturday?
-date:
+date: 2019-05-23 15:53:22
 tags:
   - Real Estate
 excerpt: >-
