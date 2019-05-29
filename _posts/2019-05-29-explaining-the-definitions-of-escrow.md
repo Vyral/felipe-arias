@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explaining the Definition(s) of Escrow
-date: 2019-05-29 18:24:27
+date: 2019-05-29 06:24:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
