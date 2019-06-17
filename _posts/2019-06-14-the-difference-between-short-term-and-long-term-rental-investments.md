@@ -1,10 +1,9 @@
 ---
 layout: post
 title: The Difference Between Short-Term and Long-Term Rental Investments
-date: 2019-06-14 18:11:26
+date: 2019-06-14 18:11:00
 tags:
   - Real Estate
-  - Home Rental
 excerpt: >-
   Investing in real estate is a great way to build wealth. Here are the pros and
   cons of two popular investment strategies.
@@ -26,7 +25,7 @@ There are two main methods that investors use when it comes to real estate: Shor
 
 {% include pullquote.html %}
 
-**With short-term rentals, the ROI is much higher because of increased rates, but the type of management you’ll need is a lot more work and is more time-consuming.** Airbnb and VRBO can help you market these properties, but you’re still responsible for the turnover.&nbsp;
+**With short-term rentals, the ROI is much higher because of increased rates, but the type of management you’ll need involves a lot more work and is more time-consuming.** Airbnb and VRBO can help you market these properties, but you’re still responsible for the turnover.&nbsp;
 
 Another pro for short-term rentals is that the property has less wear and tear. They won’t be drilling holes in the wall or using the appliances every day. However, **they are harder to fill on a daily, monthly, or weekly basis.**
 
