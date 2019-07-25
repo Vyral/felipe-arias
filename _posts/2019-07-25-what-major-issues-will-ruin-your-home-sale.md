@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Major Issues Will Ruin Your Home Sale?
-date: 2019-07-25 14:48:47
+date: 2019-07-25 02:48:00
 tags:
   - Real Estate
   - Home Seller Tips
