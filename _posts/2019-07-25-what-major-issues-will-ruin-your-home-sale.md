@@ -28,7 +28,7 @@ Here are six major issues that could sabotage your home sale:
 
 {% include pullquote.html %}
 
-**3\. Check the listing accuracy.** A lot of times, agents put in the wrong information online. It could just be a typo, but it happens. I run into a lot of cases where the wrong square footage, the Mello-Roos Tax, or the HOA fees are a bit off. This is another thing that can delay your transaction.
+**3\. Check the listing accuracy.** A lot of times, agents put in the wrong information online. It could just be a typo, but it happens. I run into a lot of cases where the wrong square footage, the Mello-Roos tax, or the HOA fees are a bit off. This is another thing that can delay your transaction.
 
 **4\. Check with the HOA.** You want to make sure there are no special assessments coming up in the future that could affect your bottom line by hundreds of dollars.
 
