@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Ways to Get Your Home Ready for Sale
-date: 2019-08-06 19:18:48
+date: 2019-08-06 07:18:00
 tags:
 excerpt: >-
   If you want to sell quickly and for top dollar, you must follow these seven
