@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Ways to Pay Your Mortgage Off Sooner
-date: 2019-09-09 19:12:46
+date: 2019-09-09 19:12:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -20,7 +20,7 @@ youtube_code: 2Kgy95S8OoA
 
 {% include youtube.html %}
 
-There are a few different strategies you can use to actually pay your mortgage off sooner than the 15 or 30-year term that you’re scheduled for.
+There are a few different strategies you can use to actually pay your mortgage off sooner than the 15- or 30-year term that you’re scheduled for.
 
 **The first thing you can do is call your lender and start utilizing a bi-weekly payment plan.** Every 15 days, half of your payment will be withdrawn from your bank account and directly paid to the lender. Believe it or not, this method will reduce the amount of interest you will have to pay and pay off your mortgage earlier in return.
 
