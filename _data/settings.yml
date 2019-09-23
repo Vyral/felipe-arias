@@ -82,7 +82,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: 'https://podcasts.apple.com/us/podcast/san-diego-real-estate-podcast-with-felipe-arias/id1480717716'
 podcast:
   title: San Diego Real Estate Podcast with Felipe Arias
   categories:
