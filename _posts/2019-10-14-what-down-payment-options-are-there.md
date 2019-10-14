@@ -1,16 +1,19 @@
 ---
 layout: post
 title: What Down Payment Options Are There?
-date: 2019-10-14 16:42:42
+date: 2019-10-14 16:42:00
 tags:
-excerpt:
-enclosure:
+excerpt: >-
+  There are more down payment options available than many homebuyers think, and
+  today we’ll review four of the most common.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Felipe+Arias/What+Down+Payment+Options+Are+There_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: oNSEtEyqPW0
 ---
 
 {% include youtube.html %}
