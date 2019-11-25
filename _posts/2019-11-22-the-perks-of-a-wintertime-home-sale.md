@@ -27,7 +27,7 @@ In San Diego, if you sell your home in the fourth quarter, **you’ll have much 
 
 {% include pullquote.html %}
 
-And, while it’s true that there are also fewer buyers in the winter, that’s not necessarily a bad thing for sellers, either. **The buyers who are on the market in the fourth quarter tend to be more serious about purchasing a home.** You won’t have to worry as much about looky-loos who are just there to window-shop.
+While it’s true that there are also fewer buyers in the winter, that’s not necessarily a bad thing for sellers, either. **The buyers who are on the market in the fourth quarter tend to be more serious about purchasing a home.** You won’t have to worry as much about looky-loos who are just there to window-shop.
 
 Additionally, **third-party services are generally more available in the winter** than in the other, busier seasons. Title companies, escrow companies, handymen, and contractors, for example, will be less preoccupied this time of the year, so they’ll be more readily available when you need them.
 
