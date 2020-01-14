@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Having Your Property in a Family Trust
-date: 2020-01-13 22:38:28
+date: 2020-01-13 22:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -18,4 +18,4 @@ youtube_code: KvfHLswo2YE
 
 {% include youtube.html %}
 
-Nobody likes to go to court. If you have a family trust and a will in place, though, the inheritance of a property is all laid out and any legal conflicts are avoided and your identity is protected. Rather than having a property under your name, which is a public record, you can have it under a family trust or any other name, really. **I recommend putting your property in a family trust** and having a will in place because you will avoid a lot of headaches. If you have any questions about having your property in a family trust, reach out to me by phone or email. I would love to help you.
+Nobody likes to go to court. However, if you have a family trust and a will in place the inheritance of your property will be laid out for you, allowing you to protect your identity and avoid legal conflicts. How does this work? Well, rather than having a property under your name (which is kept on public record), you can have it under a family trust—or any other name, really.&nbsp;**I highly recommend putting your property in a family trust**&nbsp;and having a will in place because doing so will help you avoid a lot of headaches later on. If you have any questions about putting your property in a family trust, reach out to me by phone or email. I would love to help you
