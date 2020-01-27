@@ -18,4 +18,6 @@ youtube_code: KvfHLswo2YE
 
 {% include youtube.html %}
 
-Nobody likes to go to court. However, if you have a family trust and a will in place the inheritance of your property will be laid out for you, allowing you to protect your identity and avoid legal conflicts. How does this work? Well, rather than having a property under your name (which is kept on public record), you can have it under a family trust—or any other name, really.&nbsp;**I highly recommend putting your property in a family trust**&nbsp;and having a will in place because doing so will help you avoid a lot of headaches later on. If you have any questions about putting your property in a family trust, reach out to me by phone or email. I would love to help you
+Nobody likes to go to court. However, if you have a family trust and a will in place the inheritance of your property will be laid out for you, allowing you to protect your identity and avoid legal conflicts. How does this work? Well, rather than having a property under your name (which is kept on public record), you can have it under a family trust—or any other name, really.&nbsp;**I highly recommend putting your property in a family trust**&nbsp;and having a will in place because doing so will help you avoid a lot of headaches later on.
+
+If you have any questions about putting your property in a family trust, reach out to me by phone or email. I would love to help you
