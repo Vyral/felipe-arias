@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Need Great Home Insurance
-date:
+date: 2020-02-06 21:06:17
 tags:
 excerpt: >-
   Here in California we have fires, earthquakes, and other hazards to houses. Is
